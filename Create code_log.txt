@@ -1,0 +1,15 @@
+INFO:root:Preliminaries complete. Initiating ETL process
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+INFO:root:Data extraction complete. Initiating Transformation process
+INFO:root:Data transformation complete. Initiating Loading process
+INFO:root:Data saved to CSV file
+INFO:root:Data loaded into SQLite3 database
+INFO:root:SQL Connection initiated
+INFO:root:Data loaded into SQLite database
+INFO:root:SQL Connection initiated
+INFO:root:Data loaded to Database as a table, Executing queries
+INFO:root:SQL Connection initiated
+INFO:root:Data loaded to Database as a table, Executing queries
+INFO:root:Process Complete
+INFO:root:Preliminaries complete. Initiating ETL process
+INFO:root:Process Complete
